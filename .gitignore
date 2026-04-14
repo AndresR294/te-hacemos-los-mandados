@@ -5,3 +5,9 @@ __pycache__/
 *.pyc
 .DS_Store
 data/
+
+# LEDL AUTO CLEAN
+data/
+*.secret
+*.key
+*.env.local
