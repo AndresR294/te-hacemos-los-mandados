@@ -11,3 +11,9 @@ data/
 *.secret
 *.key
 *.env.local
+
+# LEDL AUTO CLEAN
+data/
+*.secret
+*.key
+*.env.local
